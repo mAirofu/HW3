@@ -27,3 +27,5 @@ class AlbinoSnake(Animals):
 cat = Cat()
 fs = FlyingSquirrel()
 als = AlbinoSnake()
+
+# Примітка: cbd означає чи можна тримати цю тварину вдома
